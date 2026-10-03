@@ -1,0 +1,5 @@
+profile,recommendations,average_score,average_match,best_match,ranking_valid
+Beginner Python,5,0.3735,37.36,60.9,True
+Intermediate ML,5,0.3924,39.24,42.6,True
+Advanced AI,5,0.465,46.52,61.8,True
+AI Fundamentals,5,0.4161,41.64,55.5,True
