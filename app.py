@@ -169,8 +169,6 @@ with st.sidebar:
             "Fundamentals",
             "Projects",
             "Career",
-            "Interview",
-            "Advanced Skills"
         ]
     )
 
